@@ -1,4 +1,4 @@
 # CollabAssignment
-Demo Python Program to :
--- To Learn and understang Branching.
+Demo Python Program :
+-- To Learn and understand Branching.
 -- For Merge conflict Resolving.
